@@ -23,6 +23,12 @@ body  {
   height: 600px;
   justify-content: center;
   align-items: center;
+}
 
-
+.down {
+    color: #f2f2f2;
+    font-size: 160px;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
 }
