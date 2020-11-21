@@ -26,6 +26,8 @@ body  {
 }
 
 .down {
+    transform: rotate(-90deg);
+    background-color: #1a1a1a;
     color: #f2f2f2;
     font-size: 160px;
     position: absolute;
