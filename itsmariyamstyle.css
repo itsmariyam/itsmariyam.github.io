@@ -18,7 +18,6 @@ body  {
 
 .flex-container {
   top:0;
-  background-color: blue;
   display: flex;
   height: 600px;
   justify-content: center;
