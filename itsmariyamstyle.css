@@ -19,7 +19,7 @@ body  {
 .flex-container {
   background-color: blue;
   display: flex;
-  height: 300px;
+  height: 500px;
   justify-content: center;
   align-items: center;
 
