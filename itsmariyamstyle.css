@@ -24,6 +24,7 @@ body  {
   height: 600px;
   justify-content: center;
   align-items: center;
+  background-color: green;
 }
 
 .flex-2 {
