@@ -26,7 +26,7 @@ body  {
   width: 80%;
   justify-content: center;
   align-items: center;
-  background-color: #1a1a1a;
+  /*background-color: red;*/
 }
 
 .flex-2 {
@@ -35,7 +35,7 @@ body  {
   height: 100px;
   top: 400px;
   width: 80%;
-  background-color: #1a1a1a;
+  /*background-color: orange;*/
   justify-content: center;
   align-items: center;
 }
@@ -46,7 +46,16 @@ body  {
   height: 300px;
   width: 80%;
   top: 500px;
-  background-color: #1a1a1a;
+  /*background-color: green;*/
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-4 {
+  display: flex;
+  height: 75px;
+  top: 880px;
+  background-color: #262626;
   justify-content: center;
   align-items: center;
 }
