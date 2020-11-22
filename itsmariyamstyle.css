@@ -32,5 +32,6 @@ body  {
     font-size: 160px;
     position: absolute;
     bottom: 5px;
-    align-self: center;
+    justify-content: center;
+    align-items: center;
 }
