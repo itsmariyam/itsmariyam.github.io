@@ -1,5 +1,5 @@
 function scrollWin() {
-  window.scrollBy(0, 500);
+  window.scrollBy(0, 600);
 }
 
 function myFunction() {
